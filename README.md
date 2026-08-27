@@ -14,3 +14,6 @@
 
 ## 2026-08-26
 - →Cloud Practitioner Essentials モジュール2：クラウドでのコンピューティング　0%→50%
+
+## 2026-08-27
+- →Cloud Practitioner Essentials モジュール2：クラウドでのコンピューティング　50%→100%
