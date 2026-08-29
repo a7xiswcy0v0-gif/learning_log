@@ -19,5 +19,11 @@
 - →Cloud Practitioner Essentials モジュール2：クラウドでのコンピューティング　50%→100%
 
 ## 2026-08-28
-- ping-t AWS クラウドプラクティショナー勉強
+- ping-t AWS クラウドプラクティショナー勉強開始
 - →AWSクラウドの基本、主要なサービスのすべての問題をクリア
+
+## 2026-08-29
+- Cloud Practitioner Essentials モジュール3：コンピューティングサービスの探索 0%→100%
+- Cloud Practitioner Essentials モジュール4：グローバル展開 0%→100%
+- Cloud Practitioner Essentials モジュール5：ネットワーク　0%→100%
+- Cloud Practitioner Essentials モジュール6：ストレージ　0%→100%
