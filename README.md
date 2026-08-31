@@ -35,5 +35,5 @@
 - Cloud Practitioner Essentials モジュール10：AWS クラウドでのモニタリング、コンプライアンス、ガバナンス 0%→100%
 - Cloud Practitioner Essentials モジュール11：料金体系とサポート 0%→100%
 
-## 2026-08-30
+## 2026-08-31
 - Cloud Practitioner Essentials モジュール12：AWS クラウドへの移行 0%→100%
