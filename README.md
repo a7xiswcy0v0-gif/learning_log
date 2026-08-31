@@ -27,3 +27,10 @@
 - Cloud Practitioner Essentials モジュール4：グローバル展開 0%→100%
 - Cloud Practitioner Essentials モジュール5：ネットワーク　0%→100%
 - Cloud Practitioner Essentials モジュール6：ストレージ　0%→100%
+
+## 2026-08-30
+- Cloud Practitioner Essentials モジュール7：データベース 0%→100%
+- Cloud Practitioner Essentials モジュール8：AI/ML とデータ分析 0%→100%
+- Cloud Practitioner Essentials モジュール9：セキュリティ 0%→100%
+- Cloud Practitioner Essentials モジュール10：AWS クラウドでのモニタリング、コンプライアンス、ガバナンス 0%→100%
+- Cloud Practitioner Essentials モジュール11：料金体系とサポート 0%→100%
