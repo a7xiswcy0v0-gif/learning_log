@@ -37,3 +37,6 @@
 
 ## 2026-08-31
 - Cloud Practitioner Essentials モジュール12：AWS クラウドへの移行 0%→100%
+
+## 2026-09-01
+- Cloud Practitioner Essentials モジュール13：Well-Architected ソリューション 0%→100%
