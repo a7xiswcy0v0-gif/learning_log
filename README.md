@@ -40,3 +40,6 @@
 
 ## 2026-09-01
 - Cloud Practitioner Essentials モジュール13：Well-Architected ソリューション 0%→100%
+
+## 2026-09-02
+- ping-t →AWSクラウドの基本全問題
